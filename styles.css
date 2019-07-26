@@ -1,0 +1,43 @@
+body{
+  color: magenta;
+  border: 10px dotted blue;
+  background-color: : lavender;
+}
+
+  #fonty{
+    color: green;
+    font-family: 'The Girl Next Door', cursive;
+    text-align: center;
+  }
+
+  #fonty101{
+    color: orange;
+    font-family: 'Tillana', cursive;
+    text-align: center;
+  }
+
+  #fonty102{
+    color: purple;
+    font-family: 'Finger Paint', cursive;
+    text-align: center;
+  }
+
+  #fonty103{
+    color: pink;
+    font-family: 'Lily Script One', cursive;
+    text-align: center;
+  }
+
+.lolo{
+  font-size: 50px
+}
+
+body{
+  background-image: url("https://lifehacks.io/wp-content/uploads/truth-or-dare-questions-.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.good{
+  height: 50px
+}
